@@ -69,7 +69,7 @@ the project is `Highly Unstable`, this is very low priority, and it is
 not recommended to approach this until we reach at least the `unstable`
 level.
 
-# #The glossary file
+## The glossary file
 
 The glosary file is a JSON object. For each entry in the glossary it has
 one key, this key is the "slugified" version of the name in the original
