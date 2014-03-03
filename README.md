@@ -86,3 +86,11 @@ are marked with †).
   sources with [en] on export)
 * source: A string with the textual source of definition. Not
   referenced (that's what articles is for).
+
+## A project by SUTV
+
+<div style="text-align: center">![U u
+U](https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_94039/itv9?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1393877797&Signature=EZbG6zDSb2pWwgJJSUGxdr9J5kE%3D&response-content-disposition=inline%3B%20filename%3Dsutv.png%3B)
+</div>
+
+[El Sindicato](http://twitter.com/sndct_org)
