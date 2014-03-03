@@ -89,8 +89,6 @@ are marked with †).
 
 ## A project by SUTV
 
-<div style="text-align: center">![U u
-U](https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_94039/itv9?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1393877797&Signature=EZbG6zDSb2pWwgJJSUGxdr9J5kE%3D&response-content-disposition=inline%3B%20filename%3Dsutv.png%3B)
-</div>
+<div style="text-align: center"><img src="http://i.imgur.com/2RtA3Av.png" alt="U u U" /></div>
 
 [El Sindicato](http://twitter.com/sndct_org)
