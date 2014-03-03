@@ -8,8 +8,9 @@ output based on that structure. (Output can be html, epub, w/e)
 
 ## Current status
 
-Translation: About ~2% (11/626)
-Output: Not yet there
+Translation: About ~2% (11/626) `HIGHLY UNSTABLE`
+
+Output: No output yet.
 
 ## Translating
 
