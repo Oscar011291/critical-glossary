@@ -1,6 +1,6 @@
 # Critical Glossary Translation Project
 
-This project is a translation for the [critical gaming
+This project is a translation of the [critical gaming
 glossary](http://critical-gaming.com/critical-glossary/). It consists of
 several parts: The language file that contains the structured
 translation data, and the generator which is a small app that creates
@@ -8,7 +8,9 @@ output based on that structure. (Output can be html, epub, w/e)
 
 ## Current status
 
-Translation: About ~2% (11/626) `HIGHLY UNSTABLE`
+Translations: 
+
+* `es`: About ~2% (11/626) `HIGHLY UNSTABLE`
 
 Output: No output yet.
 
