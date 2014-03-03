@@ -1,0 +1,103 @@
+{
+  "3_rules_of_eureka" : {
+    "term" : "3 reglas de eureka",
+    "definition" : "Ver “{{slow_eureka}}”, “{{simultaneous_discovery}}“ y “{{conceptual_platform}}.“"
+  }
+  "16_basic_desires" : {
+    "term" : "16 deseos basicos",
+    "definition" : "Ver “{{reiss_s_theory_of_16_basic_desires}}.”"
+  }
+  "abstract_counter" : {
+    "term" : "Contador abstracto"
+    "definition" : "Cuando un contador es diseñado tal que descaradamente ignora las reglas de “la forma sigue la función”, puede considerarse como un contador abstracto. Muchas veces, estos contadores son diseñados para balancear la jugabilidad y son alteraciones “de último minuto.” En tale casos, arreglar las formas del juego requeriría desviar demasiado trabajo, tiempo y/o recursos del desarrollo. Por eso terminamos con la necesidad de simplemente memorizar como funcionan estos contadores individualmente a pesar de como se ven. De esta forma, los contadores abstractos son muy similares a los contadores de caso especial.",
+    "articles" : [
+      {
+        "url" : "http://critical-gaming.com/blog/2009/4/1/counterpoint-the-depth-of-interplay-pt1.html",
+        "language" : "en",
+        "title" : "Counterpoint, the depth of interplay pt. 1"
+      }
+    ]
+  },
+  "abstract_game" : {
+    "term" : "Juego abstracto",
+    "definition" : "Un juego abstracto tiene reglas, pero no un mundo ficticio. Muchos de los juegos tradicionales no-electrónicos son abstractos, pero muy pocos videojuegos son abstractos.",
+    "source" : "Half-Real, capítulo 4",
+    "articles" : [
+      {
+        "url" : "http://www.half-real.net/dictionary/",
+        "language" : "en",
+        "title" : "A dictionary of video game theory"
+      }
+    ]
+  },
+  "abstracting" : {
+    "term" : "Abstraer",
+    "definition" : "Arbitrariamente simplificar un elemento virtual que representa cualquier cosa en concreto en la vida real. Cualquier elemento menos que una recreación funcional al 100% de un elemento real significa que hay al menos una parte de su representación faltante o que ha sido simplificada. En lugar de juzgar si la diferencia en representación es significativa, simplemente la categorizamos como abstracta. Un diseñador de juegos debe abstraer casi todo dentro de un videojuego. Ver “{{digital_truth}}” para la excepción. El/Ella puede decidir hacerlo por razones de estilo, para trabajar mejor con otros elementos del juego, o por la facilidad de entendimiento y uso."
+  }
+  "abstract_key" : {
+    "term" : "Llave Abstracta",
+    "definition" : "Estas llaves no tienen definición espacial o fisicalidad dentro del mundo del juego. Estas llaves suelen ser un ítem que meramente se indican en tu inventario. El juego te dice que has recogido una llave, y en un punto en el futuro una cerradura se abrirá. Las llaves abstractas también son ciertos conceptos como tener que realizar una acción específica, por ejemplo, derrotar a todos los enemigos de un cuarto.",
+    "articles" : [
+      {
+        "url" : "http://critical-gaming.com/blog/2009/11/7/locks-keys-obstacles-pt1.html",
+        "language" : "en",
+        "title" : "Locks, keys & obstacles pt. 1"
+      }
+    ]
+  },
+  "abstract_mechanic" : {
+    "term" : "Mecánica abstracta",
+    "definition" : "Una mechanica que no tiene espacialidad o un efecto espacial definido en otros elementos de juego espacialmente definidos. Es también una mecanica que no es consistente con el estilo o ficción establecidos en el juego.",
+    "articles" : [
+      {
+        "url" : "http://critical-gaming.com/blog/2008/5/9/mechanics-and-abstractions-part1.html",
+        "language" : "en",
+        "title" : "Mechanics and abstractions pt. 1"
+      }
+    ]
+  },
+  "accel_timing" : {
+    "term" : "Aceleración (cadencia)",
+    "definition" : "Abreviado Accel. Es la habilidad de ejecutar cadencias sencillas o complejas a través de un incremento constante de tempo.",
+    "articles" : [
+      {
+        "url" : "http://critical-gaming.com/blog/2010/5/31/an-examination-of-skill-pt10.html",
+        "language" : "en",
+        "title" : "An examination of skill pt. 10"
+      }
+    ]
+  },
+  "accordion_level_design" : {
+    "term" : "Diseño de niveles en acordeón",
+    "definition" : "{{folded_level_design}} que se dobla constantemente en multiples dobleses creando una especie de patrón.",
+    "articles" : [
+      {
+        "url" : "http://critical-gaming.com/blog/2008/8/5/folded-level-design.html",
+        "language" : "en",
+        "title" : "Folded level design"
+      }
+    ]
+  },
+  "accuracy_controls" : {
+    "term" : "Precisión (controles)",
+    "definition" : "Terminología de dispositivo de entrada. Es el grado de proximidad entre un resultado y el objetivo declarado. La precisión solo es útil para comparar rangos de entradas de diferentes dispositivos del mismo tipo de entrada (e.g. el rango de valores al inclinar el stick analogo hasta arriba en un contról de 360 vs uno de PS3)",
+    "articles" : [
+      {
+        "url" : "http://critical-gaming.com/blog/2011/8/21/controller-design-terminology-pt6.html",
+        "language" : "en",
+        "title" : "Controller design: terminology pt. 6"
+      }
+    ]
+  },
+  "action_frequency" : {
+    "term" : "Frecuencia de acciones",
+    "definition" : "La velocidad a la cual el jugador introduce mecanicas. Una frecuencia alta de acciones ocurre cuando la velocidad de entrada excede la habilidad de procesar las acciones y reacciones conscientemente. El termino aplica principalmente a spammear mecanicas no-continuas (e.g. machacar botones. Una cualidad saturadora y emergente de juegos de acción.)",
+    "articles" : [
+      {
+        "url" : "http://critical-gaming.com/blog/2011/2/9/the-coefficient-of-clean-pt4.html",
+        "language" : "en",
+        "title" : "The coefficient of clean pt. 4"
+      }
+    ]
+  }
+}
