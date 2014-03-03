@@ -91,4 +91,4 @@ are marked with †).
 
 <div style="text-align: center"><img src="http://i.imgur.com/2RtA3Av.png" alt="U u U" /></div>
 
-[El Sindicato](http://twitter.com/sndct_org)
+[El Sindicato @ Twitter](http://twitter.com/sndct_org) • [El Sindicato @ FB](http://facebook.com/groups/sndct.org) • [El Sindicato @ Web](http://sndct.org)
