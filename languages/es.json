@@ -57,8 +57,8 @@
     ]
   },
   "accel_timing" : {
-    "term" : "Aceleración (cadencia)",
-    "definition" : "Abreviado Accel. Es la habilidad de ejecutar cadencias sencillas o complejas a través de un incremento constante de tempo.",
+    "term" : "Aceleración (tiempo)",
+    "definition" : "Abreviado Accel. Es la habilidad de ejecutar acciones en la precisión temporal requerida, ya sean sencillas o complejas, a través de un incremento constante de tempo.",
     "articles" : [
       {
         "url" : "http://critical-gaming.com/blog/2010/5/31/an-examination-of-skill-pt10.html",
