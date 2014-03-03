@@ -77,14 +77,14 @@ glossary. This slug must be used when x-referencing from elsewhere. The
 value of this key is an object with the following fields (Optional fields
 are marked with †).
 
-* term: The name of the term in the target language.
-* definition: The definition in the target language. Use {{}}
-* articles†: An array of articles. Articles are objects that have a
+* `term`: The name of the term in the target language.
+* `definition`: The definition in the target language. Use {{}}
+* `articles`†: An array of articles. Articles are objects that have a
   `url` key, a `language` key, and a `title` key. The language key is to
   specify foreign language resources when relevant (eg. keep all english
   articles linked in the spanish version, but mark all non-spanish
   sources with [en] on export)
-* source: A string with the textual source of definition. Not
+* `source`†: A string with the textual source of definition. Not
   referenced (that's what articles is for).
 
 ## A project by SUTV
